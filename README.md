@@ -1,4 +1,4 @@
-nextcloudbk_script is a script to backup nextcloud on unRAID server
+nextcloudbk_script is a script to backup/restore nextcloud on unRAID server
 
 
  - nextcloud docker from lscr.io/linuxserver/nextcloud
@@ -7,4 +7,3 @@ nextcloudbk_script is a script to backup nextcloud on unRAID server
 How to use:
 
 Go to Settings > User Scripts > Add New Script
-
